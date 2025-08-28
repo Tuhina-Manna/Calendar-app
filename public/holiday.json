@@ -1,0 +1,22 @@
+[
+  { "date": "2025-01-01", "name": "New Year" },
+  { "date": "2025-01-14", "name": "Makar Sankranti" },
+  { "date": "2025-01-23", "name": "Netaji's Birthday" },
+  { "date": "2025-01-26", "name": "Republic Day" },
+  { "date": "2025-02-05", "name": "Saraswati Puja" },
+  { "date": "2025-03-17", "name": "Holi" },
+  { "date": "2025-03-29", "name": "Good Friday" },
+  { "date": "2025-04-10", "name": "Eid al-Fitr" },
+  { "date": "2025-04-15", "name": "Bengali New Year" },
+  { "date": "2025-05-01", "name": "Labour Day" },
+  { "date": "2025-08-09", "name": "Raksha Bandhan" },
+  { "date": "2025-08-15", "name": "Independence Day" },
+  { "date": "2025-09-28", "name": "Mahasaptami" },
+  { "date": "2025-09-29", "name": "Mahaastami" },
+  { "date": "2025-09-30", "name": "Mahanabami" },
+  { "date": "2025-09-31", "name": "Dussehra" },
+  { "date": "2025-10-02", "name": "Gandhi Jayanti" },
+  { "date": "2025-10-20", "name": "Diwali" },
+  { "date": "2025-10-23", "name": "Vatridwitiya" },
+  { "date": "2025-12-25", "name": "Christmas" }
+]
