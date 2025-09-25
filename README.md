@@ -6,6 +6,11 @@ and also shows **local holidays** loaded from a JSON file.
 
 ---
 
+🚀 Live Demo
+👉 [Click here to try the app](https://tuhina-manna.github.io/Calendar-app/)
+
+---
+
 ## ✨ Features
 
 - 📆 Dynamic monthly calendar view
@@ -23,9 +28,13 @@ and also shows **local holidays** loaded from a JSON file.
 
 ## 🛠️ Technologies Used
 
-- [React](https://reactjs.org/)
-- [Font Awesome](https://fontawesome.com/)
+- React
+- Font Awesome
 - HTML5, CSS3
 
 ---
 
+## 👤 Author
+
+Created by **Tuhina Manna**  
+GitHub: [https://github.com/Tuhina-Manna/Calendar-app](https://github.com/Tuhina-Manna/Calendar-app)
